@@ -33,10 +33,9 @@ I actively participate on CodeWars, an online platform for honing coding skills.
 
 [![CodeWars Profile](https://www.codewars.com/users/JoaoCST21/badges/large)](https://www.codewars.com/users/JoaoCST21)
 
-## Time
-<p>this month I spent this much time coding</p>
-<img src="https://wakatime.com/share/@285d00cd-7bf1-45c3-b4d6-eb7f39ab75d1/163996de-df52-4cca-a8cf-a8484c29a67b.svg" width=300></img>
-<!-- Add any additional sections or information you want to include -->
-
-## Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcastillo-2022474&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<p>
+  <img style="display: inline;" src="https://wakatime.com/share/@285d00cd-7bf1-45c3-b4d6-eb7f39ab75d1/163996de-df52-4cca-a8cf-a8484c29a67b.svg" width=300></img>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcastillo-2022474&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
