@@ -41,11 +41,8 @@ I actively participate on CodeWars, an online platform for honing coding skills.
  -->
   
   ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/overview.svg#gh-dark-mode-only)
-
   ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/overview.svg#gh-light-mode-only)
-
   ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/languages.svg#gh-dark-mode-only)
-
   ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/languages.svg#gh-light-mode-only)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcastillo-2022474&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
