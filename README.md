@@ -3,8 +3,9 @@
 My name is Joao, and I'm an enthusiastic programmer.
 
 ## About Me
-
+<!--
 - 🔭 I’m currently working on a clone of Asana, checkout [the backend](https://github.com/bcastillo-2022474/job-board-backend/) and the [front-end](https://github.com/bcastillo-2022474/job-board-backend/)
+-->
 - 🌱 I’m currently learning React, Angular, Prisma, Java Spring
 - 👯 I’m looking to collaborate on backed projects
 - 💬 Ask me about Javascript
