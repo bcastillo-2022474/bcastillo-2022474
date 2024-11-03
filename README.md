@@ -35,16 +35,7 @@ I actively participate on CodeWars, an online platform for honing coding skills.
 [![CodeWars Profile](https://www.codewars.com/users/JoaoCST21/badges/large)](https://www.codewars.com/users/JoaoCST21)
 
 ## Stats
-<p>
-<!--   <img style="display: inline;" src="https://wakatime.com/share/@285d00cd-7bf1-45c3-b4d6-eb7f39ab75d1/163996de-df52-4cca-a8cf-a8484c29a67b.svg" width=300></img>
-   -->
-<!--   <img src="https://myreadme.vercel.app/api/embed/bcastillo-2022474?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
- -->
-  
-  ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/overview.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/languages.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/bcastillo-2022474/profile-stats/master/generated/languages.svg#gh-light-mode-only)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcastillo-2022474&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bcastillo-2022474&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bcastillo-2022474&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
